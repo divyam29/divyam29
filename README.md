@@ -12,12 +12,12 @@
 
 <h3>Skills:</h3>
 <p float="left">
-<img height="40" src="logos/c.png">
-<img height="40" src="logos/c.png">
-<img height="40" src="logos/c.png">
-<img height="40" src="logos/c.png">
-<img height="40" src="logos/c.png">
-<img height="40" src="logos/c.png">
+<img height="35" src="logos/c.png">
+<img height="35" src="logos/cpp.png">
+<img height="35" src="logos/python.png">
+<img height="35" src="logos/HTML5.png">
+<img height="35" src="logos/CSS3.png">
+<img height="35" src="logos/JS.png">
 </p>
 
 <hr>
