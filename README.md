@@ -10,9 +10,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are always living in the past.
 
-<br>
-<br>
-<br>
+<h3>Skills:</h3>
+<p float="left">
+<img height="40" src="logos/c.png">
+<img height="40" src="logos/c.png">
+<img height="40" src="logos/c.png">
+<img height="40" src="logos/c.png">
+<img height="40" src="logos/c.png">
+<img height="40" src="logos/c.png">
+</p>
+
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&theme=react" alt="Divyam's github stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&theme=react" />
