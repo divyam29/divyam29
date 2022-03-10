@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 <img src="
 <hr>
-![Divyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyam29&count_private=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&theme=react" alt="Divyam's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&theme=react" /> |
+| ------------- | ------------- |
