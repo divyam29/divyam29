@@ -10,7 +10,7 @@
 - 📫 How to reach me: divyamjain29@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are always living in the past.
-
+<br>
 <h3>Skills:</h3>
 <p float="left">
 <img height="35" title="C" alt="C" src="logos/c.png"/>
