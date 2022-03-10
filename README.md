@@ -20,6 +20,7 @@
 <img height="35" alt="CSS3" title="CSS3" src="logos/CSS3.png"/>
 <img height="35" alt="JS" title="JS" src="logos/JS.png"/>
 <img height="35" alt="Flutter" title="FLUTTER" src="logos/flutter.png"/>
+<img height="35" alt="MySQL" title="MYSQL" src="logos/mysql.png"/>
 </p>
 <hr>
 
@@ -31,7 +32,7 @@
 <hr>
 <h2 align="center">Contact Me</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/sidharthbahl/"><img align="left" title="LinkedIn - Sidharth Bahl" alt="LinkedIn" height="24px" src="./logos/linkedin_coloured.png" /></a>
-<a href="https://www.instagram.com/sid_bahl2002/"><img align="left" title="Instagram - Sidharth Bahl" alt="Instagram" height="24px" src="./logos/instagram_coloured.png" /></a>
-<a href="mailto:sidbahl67@gmail.com"><img align="left" title="Mail - Sidharth Bahl" alt="Mail" height="24px" src="./logos/gmail_coloured.png" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/divyam-jain-b61440141/"><img align="left" title="LinkedIn" alt="LinkedIn" height="35px" src="logos/linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/_divyam_29/"><img align="left" title="Instagram" alt="Instagram" height="35px" src="logos/instagram" /></a>
+<a target="_blank" href="mailto:divyamjain29@gmail.com"><img align="left" title="Mail" alt="Mail" height="35px" src="logos/Gmail" /></a>
 </p>
