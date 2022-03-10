@@ -25,14 +25,14 @@
 <hr>
 
 <p>
-&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&theme=react" alt="Divyam's github stats" /> 
+&nbsp<img src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&theme=react" alt="Divyam's github stats" /> 
 <img width=500 height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&theme=react" />
 </p>
 
 <hr>
-<h2 align="center">Contact Me</h2>
+<h3>Connect with me:</h3>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/divyam-jain-b61440141/"><img align="left" title="LinkedIn" alt="LinkedIn" height="35px" src="logos/linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/_divyam_29/"><img align="left" title="Instagram" alt="Instagram" height="35px" src="logos/instagram" /></a>
-<a target="_blank" href="mailto:divyamjain29@gmail.com"><img align="left" title="Mail" alt="Mail" height="35px" src="logos/Gmail" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/divyam-jain-b61440141/"><img align="left" title="LinkedIn" alt="LinkedIn" height="40px" src="logos/linkedin.png" /></a>
+<a target="_blank" href="https://www.instagram.com/_divyam_29/"><img align="left" title="Instagram" alt="Instagram" height="40px" src="logos/instagram.png" /></a>
+<a target="_blank" href="mailto:divyamjain29@gmail.com"><img align="left" title="Mail" alt="Mail" height="35px" src="logos/Gmail.png" /></a>
 </p>
