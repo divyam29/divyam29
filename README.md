@@ -25,7 +25,7 @@
 <hr>
 
 <p>
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&theme=react" alt="Divyam's github stats" /> 
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&theme=react&count_private=true" alt="Divyam's github stats" /> 
 <img width=350 height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&theme=react" />
 </p>
 
