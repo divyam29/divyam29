@@ -4,7 +4,7 @@
 
 <img width=373.5 height=279.75 src="logos/coding.gif" align="right"></img>
 <br>
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Full Stack Web Development
 - 🤔 I’m looking for help with Data Structures
 - 📫 How to reach me: divyamjain29@gmail.com
