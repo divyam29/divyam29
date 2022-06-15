@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=divyam29&theme=react-dark&hide_border=true&area=true)
+  <img src="https://activity-graph.herokuapp.com/graph?username=divyam29&theme=react-dark&hide_border=true&area=true" alt="Contribution"/>
 </p>
 <hr>
 <p>
