@@ -5,7 +5,7 @@
 <img width=373.5 height=279.75 src="logos/coding.gif" align="right"></img>
 <br>
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on Full Stack Web Development
+- 👯 I’m looking to collaborate on Full Stack Web Development Projects
 - 🤔 I’m looking for help with Data Structures
 - 📫 How to reach me: divyamjain29@gmail.com
 - 😄 Pronouns: He/Him
@@ -25,8 +25,16 @@
 <hr>
 
 <p>
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&theme=react&count_private=true" alt="Divyam's github stats" /> 
-<img width=350 height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&theme=react" />
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&count_private=true&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Divyam's github stats" /> 
+<img width=350 height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
+</p>
+
+<p>
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=divyam29&theme=react-dark&hide_border=true&area=true)
+</p>
+<hr>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 </p>
 
 <hr>
