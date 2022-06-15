@@ -39,7 +39,9 @@
 <p  align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=algolia&no-bg=false&column=-1" />
 </p>
+ 
 
+  
 <hr>
 <h3>Connect with me:</h3>
 <p align="center">
