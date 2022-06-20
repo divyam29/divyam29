@@ -27,7 +27,7 @@
 
 ## Github Stats🔥🔥
 <p  align="center">
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00a7f7&icon_color=28c48a&text_color=fdfdfd&bg_color=0,000000,130F40" alt="Divyam's github stats" /> 
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00a7f7&icon_color=28c48a&text_color=fdfdfd&bg_color=0,000000,130F40" alt="Divyam's github stats" /> 
 <img width=350 height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&hide_border=true&title_color=00a7f7&icon_color=28c48a&text_color=fdfdfd&bg_color=0,000000,130F40" />
 </p>
 
