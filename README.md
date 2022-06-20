@@ -13,14 +13,15 @@
 <br>
 <h3>Skills:</h3>
 <p float="left">
-<img height="35" title="C" alt="C" src="logos/c.png"/>
-<img height="35" alt="C++" title="C++" src="logos/cpp.png"/>
-<img height="35" alt="Python" title="Python" src="logos/python.png"/>
-<img height="35" alt="HTML5" title="HTML5" src="logos/HTML5.png"/>
-<img height="35" alt="CSS3" title="CSS3" src="logos/CSS3.png"/>
-<img height="35" alt="JS" title="JS" src="logos/JS.png"/>
-<img height="35" alt="Flutter" title="FLUTTER" src="logos/flutter.png"/>
-<img height="35" alt="MySQL" title="MYSQL" src="logos/mysql.png"/>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img height="35" title="C" alt="C" src="logos/c.png"/></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img height="35" alt="C++" title="C++" src="logos/cpp.png"/></a>
+<a href="https://www.python.org/"><img height="35" alt="Python" title="Python" src="logos/python.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img height="35" alt="HTML5" title="HTML5" src="logos/HTML5.png"/></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img height="35" alt="CSS3" title="CSS3" src="logos/CSS3.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="35" alt="JS" title="JS" src="logos/JS.png"/></a>
+<a href="https://flutter.dev/"><img height="35" alt="Flutter" title="FLUTTER" src="logos/flutter.png"/></a>
+<a href="https://www.mysql.com/"><img height="35" alt="MySQL" title="MYSQL" src="logos/mysql.png"/></a>
+<a href="https://reactjs.org/"><img height="35" alt="ReactJS" title="ReactJS" src="logos/react.png"/></a>
 </p>
 <hr>
 
