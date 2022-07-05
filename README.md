@@ -5,9 +5,9 @@
 <img width=373.5 height=279.75 src="logos/coding.gif" align="right"></img>
 <br>
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on Full Stack Web Development Projects
+- 👯 I’m looking to collaborate on <strong>Web Development Projects</strong>
 - 🤔 I’m looking for help with Data Structures
-- 📫 How to reach me: divyamjain29@gmail.com
+- 📫 How to reach me: <strong>divyamjain29@gmail.com</strong>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are always living in the past.
 <br>
