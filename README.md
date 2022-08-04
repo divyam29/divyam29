@@ -23,8 +23,6 @@
 <a href="https://www.mysql.com/"><img height="35" alt="MySQL" title="MYSQL" src="logos/mysql.png"/></a>
 <a href="https://reactjs.org/"><img height="35" alt="ReactJS" title="ReactJS" src="logos/react.png"/></a>
 <a href="https://azure.microsoft.com/en-in/"><img height="35" alt="Azure" title="Azure" src="logos/azure.png"/></a>
-<a href="https://www.djangoproject.com/"><img height="35" alt="Python-Django" title="Python-Django" src="logos/django.png"/></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/"><img height="35" alt="Python-Flask" title="Python-Flask" src="logos/flask.png"/></a>
 </p>
 <hr>
 
