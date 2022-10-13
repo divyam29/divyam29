@@ -23,7 +23,7 @@
 <a href="https://www.mysql.com/"><img height="35" alt="MySQL" title="MYSQL" src="logos/mysql.png"/></a>
 <a href="https://reactjs.org/"><img height="35" alt="ReactJS" title="ReactJS" src="logos/react.png"/></a>
 <a href="https://azure.microsoft.com/en-in/"><img height="35" alt="Azure" title="Azure" src="logos/azure.png"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="35" alt="C#" title="C#" src="logos/c#.svg"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="35" alt="C#" title="C#" src="logos/c#.png"/></a>
 </p>
 <hr>
 
