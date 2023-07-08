@@ -28,11 +28,11 @@
 <hr>
 
 ## Github Stats🔥🔥
+
+[//]:<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00a7f7&icon_color=28c48a&text_color=fdfdfd&bg_color=0,000000,130F40&PAT_1" alt="Divyam's github stats" /> 
 <p  align="center">
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=divyam29&show_icons=true&include_all_commits=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00a7f7&icon_color=28c48a&text_color=fdfdfd&bg_color=0,000000,130F40&PAT_1" alt="Divyam's github stats" /> 
 <img width=350 height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam29&layout=compact&hide_border=true&title_color=00a7f7&icon_color=28c48a&text_color=fdfdfd&bg_color=0,000000,130F40&PAT_1" />
-</p>
-<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=divyam29&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=E25822&background=060515&stroke=028ED7&ring=E25822&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=028ED7" alt="Divyam's Readme Streak Stats" />
 </p>
 
